@@ -9,7 +9,7 @@ Material de estudio de elaboración propia (diapositivas, guías y prácticas) p
 
 | Carpeta | Materia | Carrera |
 |---|---|---|
-| [AEyDII](AEyDII) | Algoritmos y Estructuras de Datos II | |
+| [AEyDII](AEyDII) | Algoritmos y Estructuras de Datos II | Ingeniería en Sistemas de Información |
 | [IA_Inge](IA_Inge) | Inteligencia Artificial | Ingeniería en Sistemas de Información |
 | [IA_Programacion](IA_Programacion) | Inteligencia Artificial | Programador Universitario |
 | [Prog_1](Prog_1) | Programación 1 | Programador Universitario |
